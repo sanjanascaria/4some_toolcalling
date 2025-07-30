@@ -2,7 +2,7 @@
 
 - FastAPI for the web framework implementation.
 - SQLite for database management. 
-- Ollama for local inference of llm.
+- Ollama for local llm inference.
 - (requirements.txt included)
 
 # List of files:
