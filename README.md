@@ -90,6 +90,6 @@ I re-implemented the CRUD operaions from typescript to python, so you can intera
 
 2. Go to [http://127.0.0.1:8000/docs] to use SwaggerUI to interact with the various endpoints.
 
-3. Aside from the python import, Ollama should also be installed on your device ([https://ollama.com/]). For the purposes of this app, I am using `qwen2.5:7b` (also must be separately downloaded through Ollama - [https://ollama.com/library/qwen2.5]) but you can use a bigger model for better accuracy if your device allows for it.
+3. Aside from the python import, Ollama should also be installed on your device ([https://ollama.com/]). For the purposes of this app, I am using `qwen2.5:7b` (also must be separately downloaded through Ollama - [https://ollama.com/library/qwen2.5]) but you can use a bigger model for better reliability if your device allows for it.
 
 4. Of course, if you have access to the OpenAI api, or any other llm, you can plug that in instead. 
