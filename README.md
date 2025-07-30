@@ -1,4 +1,4 @@
-# Primary Tech Stack:
+# Tech Stack:
 
 - FastAPI for the web framework implementation.
 - SQLite for database management. 
