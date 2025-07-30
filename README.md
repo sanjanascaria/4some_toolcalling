@@ -42,6 +42,8 @@ I cleaned the user data that was shared with me to match few of the user charact
     
     Used `What’s your preferred friend group composition?` field. 
         Values were mapped to No Preference, LGBTQ+, Women.
+    
+I've only used the first 11 entries to create .csv file.
 
 ## match_logic.py
 
