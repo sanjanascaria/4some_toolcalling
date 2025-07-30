@@ -33,7 +33,7 @@ I cleaned the user data that was shared with me to match few of the user charact
 
 11. `WillingnessToTravelToDiffCity`
     
-    `Used How far are you willing to travel for a meetup?` field for this.
+    Used `How far are you willing to travel for a meetup?` field for this.
         1-2 hour (different city for the really adventurous, open for it) --> Yes
         30-60 min (different area of the city/state) --> No
         10-30 min (same city) --> No 
