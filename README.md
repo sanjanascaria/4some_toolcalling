@@ -96,4 +96,4 @@ I re-implemented the CRUD operaions from typescript to python, so you can intera
 
 # TO DOs/Improvements:
 
-Ideally, I would implement an LLM sql agent using LangChain, once a we have a more robust rule based logic for matching. This means, the agent will take {user feedback + rules for matching} and generate an SQL query. This query will be queried against the db to generate the new matches. 
+Ideally, I would implement an LLM sql agent using LangChain, once a we have a more robust rule based logic for matching. This means, the agent will receive `user feedback + rules for matching` and generate an SQL query. This query will be queried against the db to generate the new matches. 
