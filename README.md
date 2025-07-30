@@ -92,4 +92,8 @@ I re-implemented the CRUD operaions from typescript to python, so you can intera
 
 3. Aside from the python import, Ollama should also be installed on your device ([https://ollama.com/]). For the purposes of this app, I am using `qwen2.5:7b` (also must be separately downloaded through Ollama - [https://ollama.com/library/qwen2.5]) but you can use a bigger model for better reliability if your device allows for it.
 
-4. Of course, if you have access to the OpenAI api, or any other llm, you can plug that in instead. 
+4. Of course, if you have access to the OpenAI api, or any other llm, you can plug that in instead.
+
+# TO DOs/Improvements:
+
+Ideally, I would implement an LLM sql agent using LangChain, once a we have a more robust rule based logic for matching. This means, the agent will take {user feedback + rules for matching} and generate an SQL query. This query will be queried against the db to generate the new matches. 
