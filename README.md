@@ -51,7 +51,7 @@ Step 1: Filters those users that are in the same city as the user to be matched 
 
 Step 2: Selects 3 users at random from this subset. (Step 1 and 2 implemented in `matching_logic()`)
 
-Step 3: Depending on the feedback from the user, the LLM Agent decides whether `matching_logic()` must be called again, or if matching can be terminated. (implemeted in `ask_llm()`)
+Step 3: Depending on whether the user is satisfied with the matches or not, the LLM Agent decides whether `matching_logic()` must be called again, or if matching can be terminated. (implemeted in `ask_llm()`)
 
 ## py_schemas.py
 
