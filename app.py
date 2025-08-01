@@ -14,7 +14,7 @@ create_table()
 app = FastAPI()
 
 """ endpoint for importing data from .csv file
-    run once to generate 4some_db.db
+    I've already included the 4some_db.db in the repo so there's no need to run this endpoint. 
 """
 @app.post("/import_csv/")
 def import_csv_to_db(csv_path: str = CSV_PATH):
