@@ -54,7 +54,7 @@ Initiates a matching session for a user and returns initial matches.
 
 ---
 
-### 8. Submit Feedback
+### Submit Feedback
 **POST** `/submit_feedback/`
 
 User submits feedback on the matches at this endpoint.
