@@ -96,6 +96,10 @@ I re-implemented the CRUD operaions from typescript to python, so you can intera
 
 4. Of course, if you have access to the OpenAI api, or any other llm, you can plug that in instead.
 
+## Sample Input-Output
+
+
+
 # TO DOs/Improvements:
 
 Once we have a more robust rule based logic for matching, ideally, I would implement an LLM sql agent using `LangChain`. This means, the agent will receive `user feedback + rules for matching` and generate an SQL query. This query will be queried against the db to generate the new matches. 
