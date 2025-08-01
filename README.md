@@ -98,7 +98,9 @@ I re-implemented the CRUD operaions from typescript to python, so you can intera
 
 ## Sample Input-Output
 
-Refer 
+Refer [Input_output_sample.md]
+
+[Input_output_sample.md]: https://github.com/sanjanascaria/4some_toolcalling/blob/main/Input_output_sample.md
 
 # TO DOs/Improvements:
 
